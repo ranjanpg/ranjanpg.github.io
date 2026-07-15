@@ -5,7 +5,7 @@ import BlogIndex from "./pages/BlogIndex";
 import BlogPost from "./pages/BlogPost";
 
 const MARQUEE_TEXT =
-  "SYSTEM STABLE /// SCALING REAL-TIME /// IIT GUWAHATI /// DREAM11 /// FOUNDING ENGINEER /// GOLANG SPECIALIST /// 10M+ CONCURRENT USERS /// ";
+  "ZERO P0 OUTAGES /// 5M+ RPM • 2M+ CONCURRENT USERS /// DREAM11 SDE-2 /// PYTHON • KAFKA • JAVA • AWS /// IIT GUWAHATI /// ";
 
 export default function App() {
   return (

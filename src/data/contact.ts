@@ -30,7 +30,7 @@ export const contactLinks: ContactLink[] = [
   },
   {
     label: "GitHub",
-    href: "https://github.com/deep-tinker",
+    href: "https://github.com/ranjanpg",
     icon: "gh",
     external: true,
   },
